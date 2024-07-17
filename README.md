@@ -38,7 +38,7 @@ This repository contains the design projects completed during my graphic design 
 
 **Examples:**
 - Anita Devi Memorial Educational and Welfare Society Website: 
-(https://www.canva.com/design/DAGFu5Xc1kw/CUtiNu_ILtOYin7fx- 8CCg/edit?utm_content=DAGFu5Xc1kw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+(https://www.canva.com/design/DAGFu5Xc1kw/CUtiNu_ILtOYin7fx-8CCg/edit?utm_content=DAGFu5Xc1kw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - Zomato Website:
 (https://www.canva.com/design/DAGHhpjHJyw/Ui-1ToqSyWUp3z3A3K060A/edit?utm_content=DAGHhpjHJyw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
@@ -103,10 +103,10 @@ The skills and knowledge gained will be invaluable in future projects, whether f
 ## Supporting Documents
 
 ### Sample Designs
-- [All Designs Folder]((https://drive.google.com/drive/folders/1bETm_djbTNLX5vAAdGjt1ep6nqG0rAE0?usp=sharing).
+-  All Designs Folder ((https://drive.google.com/drive/folders/1bETm_djbTNLX5vAAdGjt1ep6nqG0rAE0?usp=sharing).
 
 ### Certificates
-- [Star Intern of the Week Certificate](./certificates/star-intern-certificate.png)
+-  Star Intern of the Week Certificate
 
 ## References
 - List of design resources and tutorials used during the internship.
