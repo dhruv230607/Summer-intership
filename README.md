@@ -1,4 +1,4 @@
-# Summer-intership
+# Summer-intership 22IT126 - Dhruv Prajapati
 # Graphic Design Internship Projects
 
 Welcome to the repository for my graphic design internship projects! This repository showcases the various design tasks and projects I worked on during my internship at ADM Welfare Society. The projects span across different areas of graphic design, including poster and banner design, app design, logo creation, magazine design, and brochure design.
