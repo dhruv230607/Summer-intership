@@ -37,10 +37,10 @@ This repository contains the design projects completed during my graphic design 
 **Objective:** Develop user interfaces (UI) and user experiences (UX) for mobile applications.
 
 **Examples:**
--[Anita Devi Memorial Educational and Welfare Society Website:] 
+- Anita Devi Memorial Educational and Welfare Society Website: 
 (https://www.canva.com/design/DAGFu5Xc1kw/CUtiNu_ILtOYin7fx- 8CCg/edit?utm_content=DAGFu5Xc1kw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
--[Zomato Website:]
+- Zomato Website:
 (https://www.canva.com/design/DAGHhpjHJyw/Ui-1ToqSyWUp3z3A3K060A/edit?utm_content=DAGHhpjHJyw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
@@ -52,20 +52,20 @@ This repository contains the design projects completed during my graphic design 
 **Objective:** Design engaging magazine layouts on diverse topics.
 
 **Examples:**
-- [City Profile Magazine](https://new.express.adobe.com/id/urn:aaid:sc:AP:a59eb9ff-4b82-4bbe-9d55-fa1df077e557?invite=true&promoid=Z2G1FQKR&mv=other)
-- [MS Dhoni The Untold Journey:]
+- City Profile Magazine: (https://new.express.adobe.com/id/urn:aaid:sc:AP:a59eb9ff-4b82-4bbe-9d55-fa1df077e557?invite=true&promoid=Z2G1FQKR&mv=other)
+- MS Dhoni The Untold Journey:
 (https://new.express.adobe.com/id/urn:aaid:sc:AP:96dfdfdc-90ab-4cff-864e-468828c91a66?invite=true&promoid=Z2G1FQKR&mv=other)
 
--[Mumbai darshan:]
+- Mumbai darshan:
 (https://www.canva.com/design/DAGH_3S80Eg/GhTChtKsYY6QLqbXHd8p0Q/edit?utm_content=DAGH_3S80Eg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Brochures
 **Objective:** Create informative and attractive brochures for promotional purposes.
 
 **Examples:**
-- [ADM Brochure:] (https://new.express.adobe.com/id/urn:aaid:sc:AP:f2b6fed2-da46-4f37-ac1c-012b65f3b79e?invite=true&promoid=Z2G1FQKR&mv=other)
+- ADM Brochure: (https://new.express.adobe.com/id/urn:aaid:sc:AP:f2b6fed2-da46-4f37-ac1c-012b65f3b79e?invite=true&promoid=Z2G1FQKR&mv=other)
 
--[ADM Brochure 2:] (https://new.express.adobe.com/id/urn:aaid:sc:AP:594a60a6-2599-4974-aed8-05e8dad357b2?invite=true&promoid=Z2G1FQKR&mv=other)
+- ADM Brochure 2: (https://new.express.adobe.com/id/urn:aaid:sc:AP:594a60a6-2599-4974-aed8-05e8dad357b2?invite=true&promoid=Z2G1FQKR&mv=other)
 
 
 
