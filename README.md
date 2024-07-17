@@ -31,35 +31,42 @@ This repository contains the design projects completed during my graphic design 
 ### Posters and Banners
 **Objective:** Create visually appealing and informative graphics for events and promotions.
 
-**Examples:**
-- [Poster for Physiotherapy Camp](./फ्री फिजियोथेरेपी.png)
-- [Promotional Banner for Sales Event](./banners/sales-event.png)
+
 
 ### App Design
 **Objective:** Develop user interfaces (UI) and user experiences (UX) for mobile applications.
 
 **Examples:**
-- [Zomato App Redesign](./app-design/zomato-redesign.png)
+-[Anita Devi Memorial Educational and Welfare Society Website:] (https://www.canva.com/design/DAGFu5Xc1kw/CUtiNu_ILtOYin7fx- 8CCg/edit?utm_content=DAGFu5Xc1kw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+-[Zomato Website:]
+(https://www.canva.com/design/DAGHhpjHJyw/Ui-1ToqSyWUp3z3A3K060A/edit?utm_content=DAGHhpjHJyw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 ### Logos
 **Objective:** Conceptualize and create distinctive logos for organizations.
 
-**Examples:**
-- [ADM Logo](./logos/adm-logo.png)
 
 ### Magazines
 **Objective:** Design engaging magazine layouts on diverse topics.
 
 **Examples:**
-- [City Profile Magazine](./magazines/city-profile.png)
-- [Career Influences Magazine](./magazines/career-influences.png)
+- [City Profile Magazine](https://new.express.adobe.com/id/urn:aaid:sc:AP:a59eb9ff-4b82-4bbe-9d55-fa1df077e557?invite=true&promoid=Z2G1FQKR&mv=other)
+- [MS Dhoni The Untold Journey:]
+(https://new.express.adobe.com/id/urn:aaid:sc:AP:96dfdfdc-90ab-4cff-864e-468828c91a66?invite=true&promoid=Z2G1FQKR&mv=other)
+
+-[Mumbai darshan:]
+(https://www.canva.com/design/DAGH_3S80Eg/GhTChtKsYY6QLqbXHd8p0Q/edit?utm_content=DAGH_3S80Eg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Brochures
 **Objective:** Create informative and attractive brochures for promotional purposes.
 
 **Examples:**
-- [ADM Brochure](./brochures/adm-brochure.png)
+- [ADM Brochure:] (https://new.express.adobe.com/id/urn:aaid:sc:AP:f2b6fed2-da46-4f37-ac1c-012b65f3b79e?invite=true&promoid=Z2G1FQKR&mv=other)
+
+-[ADM Brochure 2:] (https://new.express.adobe.com/id/urn:aaid:sc:AP:594a60a6-2599-4974-aed8-05e8dad357b2?invite=true&promoid=Z2G1FQKR&mv=other)
+
+
 
 ## Challenges and Solutions
 
@@ -95,7 +102,7 @@ The skills and knowledge gained will be invaluable in future projects, whether f
 ## Supporting Documents
 
 ### Sample Designs
-- [Sample Designs Folder](./sample-designs)
+- [All Designs Folder]((https://drive.google.com/drive/folders/1bETm_djbTNLX5vAAdGjt1ep6nqG0rAE0?usp=sharing).
 
 ### Certificates
 - [Star Intern of the Week Certificate](./certificates/star-intern-certificate.png)
@@ -107,7 +114,5 @@ Feel free to explore the repository and review the projects. If you have any que
 
 ---
 
-**Author:** [Your Name]  
-**Email:** [Your Email]  
-**LinkedIn:** [Your LinkedIn Profile]  
-**Portfolio:** [Your Portfolio Website]
+**Author:** Dhruv Prajapati  
+**Email:** dhruv94085@gmail.com  
