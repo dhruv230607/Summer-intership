@@ -40,7 +40,7 @@ This repository contains the design projects completed during my graphic design 
 
 **Examples:**
 - [Zomato App Redesign](./app-design/zomato-redesign.png)
-- [Educational App for Rural Students](./app-design/educational-app.png)
+
 
 ### Logos
 **Objective:** Conceptualize and create distinctive logos for organizations.
