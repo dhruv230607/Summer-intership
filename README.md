@@ -32,7 +32,7 @@ This repository contains the design projects completed during my graphic design 
 **Objective:** Create visually appealing and informative graphics for events and promotions.
 
 **Examples:**
-- [Poster for Physiotherapy Camp](./posters/physiotherapy-camp.png)
+- [Poster for Physiotherapy Camp](./फ्री फिजियोथेरेपी.png)
 - [Promotional Banner for Sales Event](./banners/sales-event.png)
 
 ### App Design
