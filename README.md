@@ -37,7 +37,8 @@ This repository contains the design projects completed during my graphic design 
 **Objective:** Develop user interfaces (UI) and user experiences (UX) for mobile applications.
 
 **Examples:**
--[Anita Devi Memorial Educational and Welfare Society Website:] (https://www.canva.com/design/DAGFu5Xc1kw/CUtiNu_ILtOYin7fx- 8CCg/edit?utm_content=DAGFu5Xc1kw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+-[Anita Devi Memorial Educational and Welfare Society Website:] 
+(https://www.canva.com/design/DAGFu5Xc1kw/CUtiNu_ILtOYin7fx- 8CCg/edit?utm_content=DAGFu5Xc1kw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 -[Zomato Website:]
 (https://www.canva.com/design/DAGHhpjHJyw/Ui-1ToqSyWUp3z3A3K060A/edit?utm_content=DAGHhpjHJyw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
